@@ -1,4 +1,6 @@
 def find_element_index(array, value_to_find)
-  if array.each = 5 
-    puts "hello world"
+  count = 0
+  while count < array.length do
+    
+    count += 1
 end
